@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "username": "pakesaus",
+      "email": "pakesaus@mail.com",
+      "password": "alwi123",
+      "id": 1
+    },
+    {
+      "username": "basobakar",
+      "email": "basobakar@enak.com",
+      "password": "baso123",
+      "id": 2
+    },
+    {
+      "username": "basobakar1",
+      "email": "basobakar1@enak.com",
+      "password": "baso123",
+      "id": 3
+    }
+  ],
+  "tweets": [
+    {
+      "id": 1,
+      "tweet": "HOLLABRO",
+      "userId": 1,
+      "createdAt": "2023-11-28T17:30:03.866Z"
+    },
+    {
+      "tweet": "moneter\n",
+      "userId": 1,
+      "createdAt": "2023-12-12T07:21:36.333Z",
+      "id": 2
+    },
+    {
+      "tweet": "mamang garonks\n",
+      "userId": 1,
+      "createdAt": "2023-12-14T04:43:51.687Z",
+      "id": 3
+    },
+    {
+      "tweet": "buahlul",
+      "userId": 1,
+      "createdAt": "2023-12-20T03:25:48.138Z",
+      "id": 4
+    },
+    {
+      "tweet": "wasyawasyawayaw",
+      "userId": 1,
+      "createdAt": "2023-12-21T02:36:28.799Z",
+      "id": 5
+    },
+    {
+      "tweet": "baso nya bang 3ribu 1 bijih\n",
+      "userId": 2,
+      "createdAt": "2023-12-21T04:25:22.146Z",
+      "id": 6
+    },
+    {
+      "tweet": "beli pisang di tanah jawa , aku terangsang wa",
+      "userId": 2,
+      "createdAt": "2023-12-21T04:25:54.613Z",
+      "id": 7
+    },
+    {
+      "tweet": "baso bang sini2",
+      "userId": 2,
+      "createdAt": "2023-12-21T07:31:20.187Z",
+      "id": 8
+    },
+    {
+      "tweet": "baso bang sini2",
+      "userId": 2,
+      "createdAt": "2023-12-21T07:35:24.383Z",
+      "id": 9
+    }
+  ]
+}
